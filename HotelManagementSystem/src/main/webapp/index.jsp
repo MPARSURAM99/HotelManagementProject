@@ -16,6 +16,7 @@
 	<a href="bookNow.jsp">Book now</a> <br> <br>
 	<a href="submit">submit</a>
 	
+	
 
 </body>
 </html>
