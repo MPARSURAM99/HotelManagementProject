@@ -292,6 +292,5 @@ height:40vh;
         <p>&copy; 2024 Hotel Management System.All rights reserved.</p>
     </div>
 </div>
-
 </body>
 </html>
