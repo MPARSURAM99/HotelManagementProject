@@ -288,7 +288,6 @@ height:40vh;
                 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram">
             </a>
         </div>
-
         <p>&copy; 2024 Hotel Management System.All rights reserved.</p>
     </div>
 </div>
