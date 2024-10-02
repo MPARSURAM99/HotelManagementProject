@@ -15,8 +15,17 @@
 
 	<a href="bookNow.jsp">Book now</a> <br> <br>
 	<a href="submit">submit</a>
+
+	<h1>Hello world</h1>
 	
+<<<<<<< HEAD
 	
+=======
+	<%
+		Connection con = ConnectDB.dbconnect();
+		out.print(con);
+	%>
+>>>>>>> branch 'main' of https://github.com/MPARSURAM99/HotelManagementSystem.git
 
 </body>
 </html>
