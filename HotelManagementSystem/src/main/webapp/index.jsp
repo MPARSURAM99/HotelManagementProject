@@ -126,16 +126,7 @@ height:40vh;
             <h2><b>BE OUR GUEST</b></h2>
         </div>
     </div>
-=======
-	<h1>Wellcome to Prominent Hotel</h1>
-	<a href="inquireNow.jsp">Inquire Now</a> <br> <br>
-<<<<<<< HEAD
-	<h2>data connected</h2>
-=======
-	<h1>git added succesfully</h1>
->>>>>>> branch 'main' of https://github.com/MPARSURAM99/HotelManagementSystem.git
 
-<<<<<<< HEAD
    
     <div class="container text-center my-5">
         <h2 class="text-uppercase mb-4">All Rooms</h2>
