@@ -13,6 +13,8 @@
 	<a href="inquireNow.jsp">Inquire Now</a> <br> <br>
 	<a href="bookNow.jsp">Book now</a> <br> <br>
 	
+	<h1>Hello world</h1>
+	
 	<%
 		Connection con = ConnectDB.dbconnect();
 		out.print(con);
