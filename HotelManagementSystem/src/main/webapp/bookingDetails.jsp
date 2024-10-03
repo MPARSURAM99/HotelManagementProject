@@ -5,9 +5,10 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
-<%@include file="component/bootStrapLink.jsp" %>
 </head>
+<%@ include file="component/bootStrapLink.jsp" %>
 <body>
-	<%@include file="component/commonNavBar.jsp" %>
+<%@ include file="component/commonNavBar.jsp" %>
+	
 </body>
 </html>
