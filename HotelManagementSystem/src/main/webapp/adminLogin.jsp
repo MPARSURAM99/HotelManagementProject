@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Admin Login</title>
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.1.0/css/bootstrap.min.css" rel="stylesheet">
+	<%@ include file="component/bootStrapLink.jsp" %>
     <style>
         body {
             margin: 0;
@@ -76,6 +76,7 @@
     </style>
 </head>
 <body>
+	<%@ include file="component/commonNavBar.jsp" %>
     <div class="login-container">
         <h2>Admin Login</h2>
         <form action="Login" method="post">

@@ -1,6 +1,6 @@
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary bg-gradient">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary bg-gradient fixed-top">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">Hotel</a>
+        <a class="navbar-brand" href="index.jsp"><img alt="" src="img/logo.png" class="img-fluid" style="max-height: 40px; width: auto;"></a>
         <button
           class="navbar-toggler"
           type="button"
@@ -27,10 +27,20 @@
             </li>
           </ul>
 
-          <div class="dropdown me-2">
-            <a href="#">
-              <button class="btn btn-light" type="button">Book Now</button></a
+          <div class="btn-group me-5 text-dark">
+            <button
+              type="button"
+              class="btn btn-light dropdown-toggle"
+              data-bs-toggle="dropdown"
+              data-bs-display="dynamic"
+              aria-expanded="false"
             >
+              Book Now
+            </button>
+            <ul class="dropdown-menu dropdown-menu-start">
+              <li><a class="dropdown-item" href="bookNow.jsp">Book Now</a></li>
+              <li><a class="dropdown-item" href="bookingDetails.jsp">Booking details</a></li>
+            </ul>
           </div>
           <div class="btn-group me-5 text-dark">
             <button
@@ -43,8 +53,8 @@
               Admin Panel
             </button>
             <ul class="dropdown-menu dropdown-menu-start">
-              <li><a class="dropdown-item" href="#">Reception</a></li>
-              <li><a class="dropdown-item" href="#">Addmin</a></li>
+              <li><a class="dropdown-item" href="receptionLogin.jsp">Reception</a></li>
+              <li><a class="dropdown-item" href="adminLogin.jsp">Admin</a></li>
             </ul>
           </div>
         </div>
