@@ -6,13 +6,9 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 <%@ include file="component/bootStrapLink.jsp" %>
-   
-
-
 </head>
-
-<body class="bg-light">
-<%@ include file="component/commonNavBar.jsp" %>
+<body>
+	<%@ include file="component/adminTab.jsp" %>
 
 </body>
 </html>
