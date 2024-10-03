@@ -382,7 +382,7 @@ charset=UTF-8" pageEncoding="UTF-8"%>
               src="https://e7.pngegg.com/pngimages/708/311/png-clipart-twitter-twitter-thumbnail.png"
               alt="Twitter"
             />
-          </a>
+          </a>  
           <a href="#" target="_blank">
             <img
               src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
