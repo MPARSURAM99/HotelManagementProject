@@ -237,14 +237,7 @@ charset=UTF-8" pageEncoding="UTF-8"%>
           </div>
         </div>
       </div>
-      ======= >>>>>>> branch 'main' of
-      https://github.com/MPARSURAM99/HotelManagementSystem.git
-      <a href="bookNow.jsp">Book now</a> <br />
-      <br />
-      <a href="submit">submit</a>
-      >>>>>>> branch 'main' of
-      https://github.com/MPARSURAM99/HotelManagementSystem.git
-
+      
       <div class="row mb-4">
         <div class="col-md-6 order-md-2 mb-4">
           <img src="img/HOSP.jpg" alt="Hotel Image" class="img-fluid rounded" />
