@@ -383,7 +383,6 @@ charset=UTF-8" pageEncoding="UTF-8"%>
             />
           </a>
         </div>
-
         <p>&copy; 2024 Hotel Management System. All rights reserved.</p>
       </div>
     </div>
