@@ -117,7 +117,7 @@ height:40vh;
     </style>
 </head>
 <body>
-<<<<<<< HEAD
+
 <div></div>
    
     <div class="image d-flex justify-content-center align-items-center">
@@ -187,11 +187,6 @@ height:40vh;
             </div>
         </div>
     </div>
-=======
->>>>>>> branch 'main' of https://github.com/MPARSURAM99/HotelManagementSystem.git
-	<a href="bookNow.jsp">Book now</a> <br> <br>
-	<a href="submit">submit</a>
->>>>>>> branch 'main' of https://github.com/MPARSURAM99/HotelManagementSystem.git
 
   
     <div class="row mb-4">

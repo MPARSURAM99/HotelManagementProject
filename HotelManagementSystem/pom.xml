@@ -41,6 +41,6 @@
 
   </dependencies>
   <build>
-    <finalName>StudentManagementProject</finalName>
+    <finalName>HotelManagementProject</finalName>
   </build>
 </project>
